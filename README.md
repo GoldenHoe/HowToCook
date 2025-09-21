@@ -52,7 +52,6 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 ### 按难度索引
 
-- [0 星难度](starsystem/0Star.md)
 - [1 星难度](starsystem/1Star.md)
 - [2 星难度](starsystem/2Star.md)
 - [3 星难度](starsystem/3Star.md)
@@ -120,7 +119,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 - [巴基斯坦牛肉咖喱](dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md)
 - [白菜猪肉炖粉条](dishes/meat_dish/白菜猪肉炖粉条.md)
-- [豉汁蒸白鱔食谱](dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔食谱.md)
+- [豉汁蒸白鱔](dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md)
 - [带把肘子](dishes/meat_dish/带把肘子.md)
 - [冬瓜酿肉](dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
 - [豆豉鲮鱼油麦菜](dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md)
